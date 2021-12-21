@@ -20,4 +20,5 @@ public class Maximum<E extends Comparable> {
 		}
 		return max;
 	}
+
 }
