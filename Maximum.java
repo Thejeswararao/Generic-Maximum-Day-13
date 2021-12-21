@@ -1,7 +1,6 @@
 package bridgelabz.com;
 
 public class Maximum {
-
 	public static Integer findMaximum(Integer a, Integer b, Integer c) {
 		Integer max = a;
 		if (b.compareTo(a)>0 && b.compareTo(c)>0) {
